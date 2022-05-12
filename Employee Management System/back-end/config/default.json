@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Karthik:Karthikrs@1@cluster0.1le5y.mongodb.net/EmployeeManagementSystem?retryWrites=true&w=majority",
+  "secretOrKey": "secret"
+}
